@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "horus",
+    "slug": "horus",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
